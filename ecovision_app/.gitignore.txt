@@ -1,0 +1,38 @@
+# ----- OS / Editor junk -----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ----- Python (backend) -----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+pip-wheel-metadata/
+
+# SQLite DB (don’t commit data)
+backend/ecovision.db
+backend/ecovision.db-shm
+backend/ecovision.db-wal
+
+# ----- Node / Next.js (frontend) -----
+Frontend/node_modules/
+Frontend/.next/
+Frontend/.vercel/
+Frontend/.env.local
+Frontend/.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Build artifacts (if any)
+dist/
+build/

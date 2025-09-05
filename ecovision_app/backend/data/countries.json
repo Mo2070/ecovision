@@ -1,0 +1,32 @@
+[
+  {
+    "country_code": "US",
+    "country_name": "United States",
+    "region": "North America",
+    "income_level": "High income",
+    "population": 331002651,
+    "gdp_usd": 21433226,
+    "currency_code": "USD",
+    "capital_city": "Washington, D.C."
+  },
+  {
+    "country_code": "DE",
+    "country_name": "Germany",
+    "region": "Europe",
+    "income_level": "High income",
+    "population": 83166711,
+    "gdp_usd": 3845630,
+    "currency_code": "EUR",
+    "capital_city": "Berlin"
+  },
+  {
+    "country_code": "CN",
+    "country_name": "China",
+    "region": "Asia",
+    "income_level": "Upper middle income",
+    "population": 1439323776,
+    "gdp_usd": 14342903,
+    "currency_code": "CNY",
+    "capital_city": "Beijing"
+  }
+]
